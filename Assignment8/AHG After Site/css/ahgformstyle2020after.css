@@ -2,8 +2,10 @@
  
 
 
-
-
+textarea{
+	resize: vertical;
+	width: 100%
+}
 
 #formstart {
 	font-family:Georgia, "Times New Roman", Times, serif;
